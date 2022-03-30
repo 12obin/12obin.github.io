@@ -28,8 +28,7 @@
 
     <meta name="author" content="AchmadYangPertama">
 
-    <meta name="robots" content="index, follow" />
-    <meta name="googlebot" content="index, follow" />
+    <meta name="robots" content="noindex,nofollow" />
 
     <link rel="shortcut icon" href="/favicon.ico?" type="image/x-icon">
     <link rel="icon" href="/favicon.ico?" type="image/x-icon">
@@ -73,25 +72,10 @@ ga('send', 'pageview');
 	</header>
 	<main>
 
-{% for post in site.posts limit: 10 %}
-<article class="post ">
-<header><h2><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2></header>
-
-<div class="content">
-<p>{{ post.excerpt }}</p>
-</div>
-			
-<footer>
-
-<div>
-<a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">
-<time>{{ post.date | date: "%Y-%m-%d" }}</time>
-</a>
-</div>
-
-
-</footer>
-</article>
+{% for post in site.posts %}
+<li>
+<a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" style="color: black;" >{{ post.title }}</a>
+</li>
 {% endfor %}
 
 	</main>

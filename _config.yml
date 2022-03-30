@@ -4,9 +4,9 @@ plugins:
 title: BlogSatu
 description: BlogSatu adalah blog tentang internet banking, tutorial windows, aplikasi komputer, pemrograman
 katakunci: windows tutorial, tutorial aplikasi, tutorial youtube, hp, iphone, android, jaringan, internet banking, internet
-pertamaterbit: 2022-02-13
-pertamamodif: 2022-02-21
-terakhirupdate: 2022-03-21
+pertamaterbit: 2022-03-29
+pertamamodif: 2022-03-29
+terakhirupdate: 2022-03-29
 
 paginate: 10
 paginate_path: /page/:num/

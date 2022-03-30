@@ -46,6 +46,20 @@
 	<link rel="stylesheet" href="{{ site.baseurl }}/style/screen/61.5625.css" media="screen and (min-width: 61.5625em)">
 	<link rel="stylesheet" href="{{ site.baseurl }}/style/screen/85.125.css" media="only screen and (min-width: 85.125em)">
 	<link rel="stylesheet" href="{{ site.baseurl }}/style/print.css" media="only print">
+
+	<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-56552902-2', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
 </head>
 <body>
 	<header>
@@ -82,5 +96,55 @@
 		{% include navigation.liquid %}
 		<p><a rel="tag" href="/">Blogsatu.net</a> is powered by Jekyll And Github Pages</p>
 	</footer>
+
+<script src="/dist/lazyload.min.js"></script>
+    <script>
+      (function () {
+        function logElementEvent(eventName, element) {
+          console.log(Date.now(), eventName, element.getAttribute("data-src"));
+        }
+
+        var callback_enter = function (element) {
+          logElementEvent("🔑 ENTERED", element);
+        };
+        var callback_exit = function (element) {
+          logElementEvent("🚪 EXITED", element);
+        };
+        var callback_loading = function (element) {
+          logElementEvent("⌚ LOADING", element);
+        };
+        var callback_loaded = function (element) {
+          logElementEvent("👍 LOADED", element);
+        };
+        var callback_error = function (element) {
+          logElementEvent("💀 ERROR", element);
+          element.src = "https://via.placeholder.com/440x560/?text=Error+Placeholder";
+        };
+        var callback_finish = function () {
+          logElementEvent("✔️ FINISHED", document.documentElement);
+        };
+        var callback_cancel = function (element) {
+          logElementEvent("🔥 CANCEL", element);
+        };
+
+        var ll = new LazyLoad({
+          class_applied: "lz-applied",
+          class_loading: "lz-loading",
+          class_loaded: "lz-loaded",
+          class_error: "lz-error",
+          class_entered: "lz-entered",
+          class_exited: "lz-exited",
+          
+          callback_enter: callback_enter,
+          callback_exit: callback_exit,
+          callback_cancel: callback_cancel,
+          callback_loading: callback_loading,
+          callback_loaded: callback_loaded,
+          callback_error: callback_error,
+          callback_finish: callback_finish
+        });
+      })();
+    </script>
+
 </body>
 </html>
