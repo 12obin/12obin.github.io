@@ -10,7 +10,7 @@ date: 2022-03-31 13:00:00
 tanggalpostterbit: 2022-03-31 
 tanggalpostmodif: 2022-03-31
 categories: windows
-tags: windows-10 tutorial-windows-10
+tags: install-windows tutorial-windows-10
 penulis: achmad
 changefreq: monthly
 priority: "0.8"

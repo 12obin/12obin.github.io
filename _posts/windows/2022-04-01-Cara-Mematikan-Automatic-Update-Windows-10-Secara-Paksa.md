@@ -10,7 +10,7 @@ date: 2022-04-01 01:00:00
 tanggalpostterbit: 2022-04-01
 tanggalpostmodif: 2022-04-01
 categories: windows
-tags: stop-windows-update windows-update
+tags: stop-windows-update tutorial-windows-10
 penulis: achmad
 changefreq: monthly
 priority: "0.8"
