@@ -18,8 +18,6 @@ banner: merakit-komputer-pc.jpg
 
 ---
 
-{% include toc.html %}
-
 <p>Cara Merakit Komputer PC, ternyata, tidaklah sesulit yang dibayangkan. Kami belumlah ahli dalam merakit komputer pc (windows), dan alhamdulillah berhasil melakukannya. Komputer rakitan biasanya lebih sering dikaitkan dengan komputer windows dan atau linux. Sedangkan untuk macbook, tidak ada istilah rakitan, karena baik hardware maupun softwarenya sudah dibundling jadi satu dari pabriknya. Ada beberapa orang yang membuat komputer pc menjadi serasa macbook, tetapi banyak fungsi-fungsi yang tidak bisa sesuai dengan yang diinginkan. Karena sistem operasi dan hardware yang dibuat oleh apple sudah disinkronkan sehingga tidak ada seorang pun yang bisa membuat serupa dengan buatan mereka.</p>
 
 <p>Jika teman ingin merakit komputer sendiri dengan dana yang terbatas, maka saya akan berbagi ilmu bagaimana merakit pc dengan dana terbatas, dengan kalimat sesingkat mungkin dan mudah dipahami. Dengan merakit komputer pc sendiri mempunyai kelebihan dan kekurangan masing-masing. Misalnya dengan merakit sendiri, kita bisa menganalisa biaya yang diperlukan, biaya apa saja yang bisa dihilangkan, dan bisa disesuaikan dengan kebutuhan. Saya pernah merakit dua kali komputer PC dan semuanya berjalan normal. Yang pertama ditemani oleh teman, sambil belajar, masih memakai prosessor intel pentium empat. Yang kedua kalinya saya merakit sendiri menggunakan spesifikasi sebagai berikut : Intel pentium core i7, RAM 8 giga byte, dan casing gamer, layar HD, mouse dan keybord bluetooth, hard disk 3,5 inch , dan pendingin internal.</p>
