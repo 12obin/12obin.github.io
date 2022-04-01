@@ -6,6 +6,7 @@ deskripsi: "Cara install windows 10 64 atau 32 bit, langkah-langkahnya dibuat de
 excerpt: "Laptop dengan sistem operasi Windows 10 merupakan jenis laptop yang paling banyak dijual saat ini. Bahkan Windows 10 adalah sistem operasi komputer yang paling banyak dipakai di seluruh dunia. Hal ini terutama karena mudah digunakan dan banyak software bisa dipakai di windows"
 katakunci: "cara install windows 10"
 slug: "cara-install-windows-10"
+date: 2022-03-31 13:00:00
 tanggalpostterbit: 2022-03-31 
 tanggalpostmodif: 2022-03-31
 categories: windows
@@ -16,8 +17,6 @@ priority: "0.8"
 banner: install-windows.jpg
 
 ---
-
-{% include toc.html %}
 
 <p>Laptop dengan sistem operasi Windows 10 merupakan jenis laptop yang paling banyak dijual saat ini. Bahkan Windows 10 adalah sistem operasi komputer yang paling banyak dipakai di seluruh dunia. Hal ini terutama karena mudah digunakan dan banyak software bisa dipakai di windows.</p>
 
