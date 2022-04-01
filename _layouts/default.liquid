@@ -14,7 +14,7 @@
     <meta property="og:description" content="{% if page.deskripsi %}{{ page.deskripsi }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:image" content="{{ site.url }}/blogsatu.png">
     <meta property="article:published_time" content="{% if page.tanggalpostterbit %}{{ page.tanggalpostterbit }}{% else %}{{ site.pertamaterbit }}{% endif %}">
-    <meta property="article:modified_time" content="{% if page.tanggalpostmodif %}{{ page.tanggalpostmodif }}{% else %}{{ site.pertamamodif }}{% endif %}">
+    <meta property="article:modified_time" content="{% if page.tanggalpostmodif %}{{ page.tanggalpostmodif }}{% else %}{{ site.terakhirupdate }}{% endif %}">
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@blogsatu" />
