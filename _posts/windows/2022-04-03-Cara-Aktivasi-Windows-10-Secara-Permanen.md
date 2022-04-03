@@ -18,8 +18,6 @@ banner: aktivasi-windows-10.jpg
 
 ---
 
-{% include toc.html %}
-
 <p>Komputer PC yang menggunakan OS windows 10 tumbuh pesat sejak dirilis oleh microsoft. Banyak pabrikan laptop dan komputer PC yang memproduksi komponen dan aplikasi yang mendukung windows 10. Windows 10 sebagai OS sejuta umat menjadi salah satu pilihan karena kemudahan dan fleksibel untuk digunakan terutama bagi pemula.</p>
 
 <p>Bagi pemilik PC dan laptop yang membeli dari pabrikan yang sudah branded seperti asus, lenovo, dan lain-lainnya biasanya di dalamnya telah terinstal windows 10 secara permanen.</p>
