@@ -10,7 +10,7 @@ date: 2022-04-02 05:00:00
 tanggalpostterbit: 2022-04-02
 tanggalpostmodif: 2022-04-02
 categories: windows
-tags: msvcp140-dll msvcp110-dll-missing
+tags: msvcp140-dll msvcp110-dll-missing tutorial-windows-10
 penulis: achmad
 changefreq: monthly
 priority: "0.8"

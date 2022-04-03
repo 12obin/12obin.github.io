@@ -10,7 +10,7 @@ date: 2022-04-01 08:30:00
 tanggalpostterbit: 2022-04-01
 tanggalpostmodif: 2022-04-01
 categories: windows
-tags: merakit-komputer-pc
+tags: merakit-komputer-pc tutorial-windows-10
 penulis: achmad
 changefreq: monthly
 priority: "0.8"
