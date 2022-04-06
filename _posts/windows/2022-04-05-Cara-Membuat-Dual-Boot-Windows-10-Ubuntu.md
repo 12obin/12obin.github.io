@@ -18,8 +18,6 @@ banner: windows-ubuntu.jpg
 
 ---
 
-{% include toc.html %}
-
 <p>Dual boot windwos 10 ubuntu menjadi salah satu pilihan bagi banyak orang ketika ingin merasakan indahnya windows 10 dan gratisnya ubuntu dengan fitur yang melimpah. Ubuntu dengan dukungan dari komunitas opensource dan perusahaan canonical menjadikannya salah satu distro linux paling mudah digunakan dan paling banyak dioprek oleh banyak developer atau penyuka linux.</p>
 
 <p>Ubuntu merupakan turunan dari debian yang memiliki fitur yang sangat banyak, diantaranya adalah koneksi modem GSM baik mifi atau broadband, koneksi wifi yang plug and play, plug and play printer dan masih banyak fitur lainnya. Dengan kata lain menggunakan ubuntu atau debian, serasa menggunakan windows. Tentunya ini sangat cocok untuk pemula.</p>
