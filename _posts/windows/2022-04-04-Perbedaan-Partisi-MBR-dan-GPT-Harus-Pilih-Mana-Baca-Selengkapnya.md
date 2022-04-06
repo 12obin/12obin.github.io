@@ -6,7 +6,7 @@ deskripsi: "Perbedaan MBR dan GPT, dua jenis partisi yang bisa dipakai dalam pen
 excerpt: "Stuktur partisi dari suatu harddisk yang dipakai di dalam komputer ada 2 tipe saat ini, yaitu MBR dan GPT. Kedua jenis partisi harddisk ini sering dipakai bagi pengguna komputer windows atau linux. Partisi itu sendiri adalah suatu ruang tersendiri yang"
 katakunci: "Perbedaan Partisi MBR dan GPT"
 slug: "perbedaan-partisi-mbr-dan-gpt"
-date: 2022-04-04 04:00:00
+date: 2022-04-04 12:00:00
 tanggalpostterbit: 2022-03-04
 tanggalpostmodif: 2022-03-04
 categories: windows

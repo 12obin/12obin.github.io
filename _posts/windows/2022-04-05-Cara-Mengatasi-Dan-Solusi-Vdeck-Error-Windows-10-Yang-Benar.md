@@ -10,7 +10,7 @@ date: 2022-04-05 01:00:00
 tanggalpostterbit: 2022-04-05 
 tanggalpostmodif: 2022-04-05
 categories: windows
-tags: vdeck-error
+tags: vdeck-error tutorial-windows-10
 penulis: achmad
 changefreq: monthly
 priority: "0.8"
