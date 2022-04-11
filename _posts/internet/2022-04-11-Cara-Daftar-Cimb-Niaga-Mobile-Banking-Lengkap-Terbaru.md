@@ -39,7 +39,7 @@ banner: cimb-niaga-mobile-banking.jpg
 ## Registrasi Mobile Banking
 
 
-## 1. Melalui Customer Service Bank</h3>
+## 1. Melalui Customer Service Bank
 
 <p>a. Nasabah mengisi formulir pendaftaran mobile banking.</p>
 
@@ -63,7 +63,7 @@ banner: cimb-niaga-mobile-banking.jpg
 <p>g. Setelah berhasil login, nomor handphone tidak bisa digunakan untuk login lagi. Sebagai gantinya nasabah bisa login dengan UserID yang telah dibuat sebelumnya. Sedangkan password akan dikirim dengan metode OTP (one time password. Itu artinya setiap kali login ke aplikasi go mobile, nasabah akan dikirim password baru untuk login.</p>
 
 
-## 2. Melalui Handphone</h3>
+## 2. Melalui Handphone
 
 <p>a. Buka aplikasi go mobile</p>
 
