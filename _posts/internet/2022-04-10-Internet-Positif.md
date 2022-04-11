@@ -5,7 +5,7 @@ judulseo: "Internet Positif Selalu Dan Stop Internet Negatif Untuk Kebaikan"
 deskripsi: "Manfaat, fungsi, pengertian dan sejarah jaringan internet, fungsi internet service provider, apa itu internet positif dan internet negatif"
 excerpt: "Internet menjadi salah satu kebutuhan orang di hampir seluruh dunia saat ini. Hampir semua orang di seluruh dunia menggunakan internet baik itu yang memiliki sifat internet positif, dan bahkan ada yang bersifat internet negatif. Internet juga"
 katakunci: "Manfaat Fungsi Pengertian Dan Sejarah Jaringan Internet Serta Internet Service Provider , Manfaat Fungsi Pengertian Dan Sejarah Jaringan Internet , internet positif"
-slug: "cara-mengetahui-uptime-komputer"
+slug: "internet"
 date: 2022-04-10 01:00:00
 tanggalpostterbit: 2022-04-10
 tanggalpostmodif: 2022-04-10
