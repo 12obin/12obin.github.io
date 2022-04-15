@@ -2,8 +2,8 @@ plugins:
   - jekyll-paginate
 
 title: BlogSatu
-description: BlogSatu adalah blog tentang internet banking, tutorial windows, aplikasi komputer, pemrograman
-katakunci: windows tutorial, tutorial aplikasi, tutorial youtube, hp, iphone, android, jaringan, internet banking, internet
+description: BlogSatu adalah blog tentang informasi internet banking, tutorial windows, tutorial wordpress, aplikasi komputer, pemrograman website, seputar info terkini
+katakunci: windows tutorial, tutorial aplikasi komputer, tutorial youtube, hp, iphone, android, jaringan, internet banking, internet, tutorial wordpress, tutorial pemograman website 
 pertamaterbit: 2022-03-29
 terakhirupdate: 2022-04-12
 
@@ -18,3 +18,9 @@ tag_dir: tag/
 url: "https://blogsatu.net"
 
 excerpt_separator: "\n\n\n\n"
+
+
+reading_time:
+  second_plural: "sec"    # default: seconds
+  minute_singular: "min"  # default: minute
+  minute_plural: "min"    # default: minutes

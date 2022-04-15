@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>firefox on BlogSatu</title>
+    <link>https://blogsatu.net/tag/firefox/</link>
+    <description>Recent content in firefox on BlogSatu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © {year} Blogsatu.net. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 09 Apr 2022 01:00:00 +0000</lastBuildDate><atom:link href="https://blogsatu.net/tag/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Couldn’t load XPCOM Firefox Tidak Bisa Dibuka Ini Solusinya</title>
+      <link>https://blogsatu.net/couldnt-load-xpcom-mozilla/</link>
+      <pubDate>Sat, 09 Apr 2022 01:00:00 +0000</pubDate>
+      
+      <guid>https://blogsatu.net/couldnt-load-xpcom-mozilla/</guid>
+      <description>Firefox saya tiba-tiba error, muncul tulisan Couldn’t load XPCOM. Hal ini terjadi setelah saya install beberapa software dari internet. Padahal aplikasi yang saya install termasuk aplikasi dari website terpercaya dan bebas dari segala bentuk virus dan komponen perusak komputer.
+Error pada firefox ini bisa muncul karena ada program lain yang crash dengan program firefox. Bisa juga karena hal lainnya yang belum diketahui hingga saat ini.
+Couldn’t load XPCOM Setelah saya browsing internet dan melakukan uji coba sendiri terhadap komputer saya, saya dapat menemukan solusi yang tepat bagi error pada firefox kali ini.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on BlogSatu</title>
+    <link>https://blogsatu.net/category/</link>
+    <description>Recent content in Category on BlogSatu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © {year} Blogsatu.net. All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 12 Apr 2022 03:00:00 +0000</lastBuildDate><atom:link href="https://blogsatu.net/category/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>internet</title>
+      <link>https://blogsatu.net/category/internet/</link>
+      <pubDate>Tue, 12 Apr 2022 03:00:00 +0000</pubDate>
+      
+      <guid>https://blogsatu.net/category/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facebook</title>
+      <link>https://blogsatu.net/category/facebook/</link>
+      <pubDate>Sat, 09 Apr 2022 13:00:00 +0000</pubDate>
+      
+      <guid>https://blogsatu.net/category/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aplikasi</title>
+      <link>https://blogsatu.net/category/aplikasi/</link>
+      <pubDate>Sat, 09 Apr 2022 01:00:00 +0000</pubDate>
+      
+      <guid>https://blogsatu.net/category/aplikasi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>https://blogsatu.net/category/windows/</link>
+      <pubDate>Fri, 08 Apr 2022 13:00:00 +0000</pubDate>
+      
+      <guid>https://blogsatu.net/category/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>https://blogsatu.net/category/youtube/</link>
+      <pubDate>Wed, 30 Mar 2022 01:00:00 +0000</pubDate>
+      
+      <guid>https://blogsatu.net/category/youtube/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

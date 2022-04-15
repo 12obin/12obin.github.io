@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dual-boot-windows-ubuntu on BlogSatu</title>
+    <link>https://blogsatu.net/tag/dual-boot-windows-ubuntu/</link>
+    <description>Recent content in dual-boot-windows-ubuntu on BlogSatu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © {year} Blogsatu.net. All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 08 Apr 2022 13:00:00 +0000</lastBuildDate><atom:link href="https://blogsatu.net/tag/dual-boot-windows-ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solusi Ubuntu Tidak Bisa Akses File Direktori Windows Untuk Dual Boot Windows Ubuntu</title>
+      <link>https://blogsatu.net/ubuntu-tidak-bisa-akses-direktori-windows/</link>
+      <pubDate>Fri, 08 Apr 2022 13:00:00 +0000</pubDate>
+      
+      <guid>https://blogsatu.net/ubuntu-tidak-bisa-akses-direktori-windows/</guid>
+      <description>Mempunyai komputer yang bisa dual boot windows dan ubuntu, ternyata, memiliki satu kekurangan yang harus diperbaiki. Salah satu kekurangan yang biasa ditemui adalah tidak bisa akses file atau direktori windows ketika menggunakan OS ubuntu.
+Berikut ini gambar error yang biasa ditemui :
+Solusi Ubuntu Tidak Bisa Akses File Direktori Windows Untuk Dual Boot Windows Ubuntu Agar os ubuntu bisa akses file dan direktori windows, berikut ini solusinya :
+1. Buka Control Panel.</description>
+    </item>
+    
+    <item>
+      <title>Cara Membuat Dual Boot Windows 10 Ubuntu</title>
+      <link>https://blogsatu.net/dual-boot-windows-10-ubuntu/</link>
+      <pubDate>Tue, 05 Apr 2022 13:00:00 +0000</pubDate>
+      
+      <guid>https://blogsatu.net/dual-boot-windows-10-ubuntu/</guid>
+      <description>Dual boot windwos 10 ubuntu menjadi salah satu pilihan bagi banyak orang ketika ingin merasakan indahnya windows 10 dan gratisnya ubuntu dengan fitur yang melimpah. Ubuntu dengan dukungan dari komunitas opensource dan perusahaan canonical menjadikannya salah satu distro linux paling mudah digunakan dan paling banyak dioprek oleh banyak developer atau penyuka linux.
+Ubuntu merupakan turunan dari debian yang memiliki fitur yang sangat banyak, diantaranya adalah koneksi modem GSM baik mifi atau broadband, koneksi wifi yang plug and play, plug and play printer dan masih banyak fitur lainnya.</description>
+    </item>
+    
+  </channel>
+</rss>

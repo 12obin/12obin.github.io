@@ -8,7 +8,7 @@ katakunci: "tentang blog ini"
 slug: tentang
 tanggalpostterbit: 2022-03-29 
 tanggalpostmodif: 2022-03-29
-date:   2022-03-29 01:00:36 +0700
+date: 2022-03-29 01:00:36 
 author: robin
 ---
 

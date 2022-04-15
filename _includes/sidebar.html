@@ -1,0 +1,39 @@
+<aside class="col-lg-4 sidebar d-flex">
+  <div class="container d-flex flex-column">
+    
+    <section class="recent-posts row card component">
+  <div class="card-header">
+    <h2 class="card-title">Recent Posts</h2>
+  </div>
+  <div class="card-body">
+    <ul class="post-list">
+
+      {% for post in site.posts limit: 5 %}
+          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+
+
+      </ul>
+  </div>
+</section><section class="category-taxonomies row card component">
+      <div class="card-header">
+        <h2 class="card-title">
+          <a href="https://blogsatu.net/category"></a>
+        </h2>
+      </div>
+      <div class="card-body">
+        <div class="py-2">
+
+           {% assign categories = site.categories | sort %}
+        {% for category in categories %}
+          <a href="{{ site.baseurl }}/category/{{ category[0] | slugify | uri_escape }}" class="badge rounded post-taxonomy">{{ category[0] }}</a>
+        {% endfor %}
+
+       
+
+            </div>
+      </div>
+    </section>
+    
+  </div>
+</aside>

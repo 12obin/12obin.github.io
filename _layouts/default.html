@@ -1,0 +1,189 @@
+<!doctype html><html lang="en" data-palette="green">
+<head>
+<meta name="generator" content="Jekyll" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>{% if page.judulseo %}{{ page.judulseo | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+<meta name="description" content="{% if page.deskripsi %}{{ page.deskripsi }}{% else %}{{ site.description }}{% endif %}">
+<meta name="keywords" content="{% if page.katakunci %}{{ page.katakunci }}{% else %}{{ site.katakunci }}{% endif %}">
+
+<meta itemprop="name" content="{% if page.judulseo %}{{ page.judulseo | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+
+<meta itemprop="description" content="{% if page.deskripsi %}{{ page.deskripsi }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:title" content="{% if page.judulseo %}{{ page.judulseo | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
+<meta property="og:description" content="{% if page.deskripsi %}{{ page.deskripsi }}{% else %}{{ site.description }}{% endif %}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+<meta property="og:image" content="{{ site.url }}/blogsatu.png" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="{% if page.judulseo %}{{ page.judulseo | escape }}{% else %}{{ site.title | escape }}{% endif %}"/>
+<meta name="twitter:description" content="{% if page.deskripsi %}{{ page.deskripsi }}{% else %}{{ site.description }}{% endif %}"/>
+<meta name="twitter:image" content="{{ site.url }}/blogsatu.png"/>
+
+<meta property="article:published_time" content="{% if page.tanggalpostterbit %}{{ page.tanggalpostterbit }}{% else %}{{ site.pertamaterbit }}{% endif %}">
+<meta property="article:modified_time" content="{% if page.tanggalpostmodif %}{{ page.tanggalpostmodif }}{% else %}{{ site.terakhirupdate }}{% endif %}">
+
+<meta name="author" content="AchmadYangPertama">
+
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+
+
+<link rel="apple-touch-icon" href="{{ site.baseurl }}/themes/bst5/images/icons/icon-128.png" sizes="180x180">
+<link rel="icon" href="{{ site.baseurl }}/themes/bst5/images/icons/icon-64.png" sizes="32x32" type="image/png">
+<link rel="icon" href="{{ site.baseurl }}/themes/bst5/images/icons/icon-48.png" sizes="16x16" type="image/png">
+<link rel="icon" href="{{ site.baseurl }}/themes/bst5/images/icons/favikon.ico">
+<link rel="manifest" href="{{ site.baseurl }}/themes/bst5/manifest.json">
+
+
+<link rel="stylesheet" href="{{ site.baseurl }}/themes/bst5/css/main.min.507afbe6e4670fa3e961a0b35816b5daeb36029866fd6bd7b9d7871fcf88faa5.css" integrity="sha256-UHr75uRnD6PpYaCzWBa12us2Aphm/WvXudeHH8&#43;I&#43;qU=" crossorigin="anonymous">
+
+<link rel="stylesheet" href="{{ site.baseurl }}/themes/bst5/css/viewer.min.3d228794bcedbbfa0412beb8fbc1ec6973202945e42af7004f742a4d7bd620ab.css" integrity="sha256-PSKHlLztu/oEEr64&#43;8HsaXMgKUXkKvcAT3QqTXvWIKs=" crossorigin="anonymous">
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-56552902-2', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+    
+</head>
+
+  </head>
+  <body><script>const items=['mode','palette'];items.forEach(function(a){const b=localStorage.getItem('hbs-'+a);b&&document.body.parentElement.setAttribute('data-'+a,b)})</script><header><nav class="navbar top-app-bar top-app-bar-expand-lg fixed-top">
+  <div class="container">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <i class="fas fa-bars"></i>
+    </button>
+
+    <!-- logo -->
+
+    <a class="navbar-brand flex-grow-1 flex-lg-grow-0 text-center text-lg-start mx-auto me-lg-3 active" href="/">BlogSatu
+    </a>
+
+
+  
+    
+    <div class="collapse navbar-collapse" tabindex="-1" id="navbarSupportedContent" aria-labelledby="navbarSupportedContent">
+     
+      <ul class="navbar-nav ms-auto"></ul>
+    </div>
+  </div>
+</nav>
+</header>
+<main role="main" class="container">
+<div class="row content">
+
+<div class="col-lg-8">
+<div class="container"><div class="posts mb-4">
+
+{% for post in site.posts limit: 10 %}
+<article class="row card post component">
+<div class="card-header">
+<h2 class="card-title post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+</div>
+<div class="card-body">
+<img class="img-fluid" alt="Cara Daftar Internet Banking Bank Mandiri Disertai Gambar Terbaru" src="https://the-website-hub.com/km/files/internet-banking-bank-mandiri.jpg" loading="lazy"/>
+<div class="post-meta">
+<span class="post-date" title="created on {{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%-d %B %Y" }}</span>
+<span class="post-reading-time">{{ post.content | reading_time }} read</span>
+
+<span class="post-taxonomies">
+
+{% if post %}
+{% assign categories = post.categories %}
+{% else %}
+{% assign categories = page.categories %}
+{% endif %}
+{% for category in categories %}
+<a href="{{site.baseurl}}/category/{{category|slugize}}" class="badge post-taxonomy">{{category}}</a>
+{% unless forloop.last %}&nbsp;{% endunless %}
+{% endfor %}
+
+
+{% if post %}
+{% assign tags = post.tags %}
+{% else %}
+{% assign tags = page.tags %}
+{% endif %}
+{% for tag in tags %}
+<a href="{{site.baseurl}}/tag/{{tag|slugize}}" class="badge post-taxonomy">{{tag}}</a>
+{% unless forloop.last %}&nbsp;{% endunless %}
+{% endfor %}
+
+</span>
+</div>
+<div class="post-summary">
+<p>{{ post.excerpt }}</p><div><a class="btn btn-sm btn-primary btn-read-more" href="{{ site.baseurl }}{{ post.url }}">Read More</a></div>
+</div>
+</div>
+</article>
+{% endfor %}
+
+
+
+
+
+
+
+
+
+</div><div class="row table-responsive mb-3">
+    <ul class="pagination pagination-default">
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="First" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="Previous" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item active">
+        <a href="/arsip" aria-current="page" aria-label="Page 1" class="page-link" role="button">Arsip</a>
+      </li>
+      
+      
+      
+      <li class="page-item disabled">
+        <a aria-disabled="true"  aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul></div>
+</div>
+
+</div>
+
+{% include sidebar.html %}
+
+</div>
+    </main>
+
+
+{% include footer.html %}
+
+<script src="{{ site.baseurl }}/themes/bst5/js/main.09726d71b0b09ee0cb06f5a4a858e99260a5a5d8894a5e306b6545fe1d68fb89.js" integrity="sha256-CXJtcbCwnuDLBvWkqFjpkmClpdiJSl4wa2VF/h1o&#43;4k=" crossorigin="anonymous" defer></script>
+
+<script src="{{ site.baseurl }}/themes/bst5/js/icons.min.8ddcaafc364ff0296c2209c5495287f0de039b852da9b24847f94c198b7639b6.js" integrity="sha256-jdyq/DZP8ClsIgnFSVKH8N4Dm4UtqbJIR/lMGYt2ObY=" crossorigin="anonymous" defer></script>
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('https:\/\/blogsatu.net\/service-worker.js').then(function(reg) {
+      console.log('Successfully registered service worker', reg);
+    }).catch(function(err) {
+      console.warn('Error whilst registering service worker', err);
+    });
+  });
+}
+</script><script src="{{ site.baseurl }}/themes/bst5/js/viewer.min.652118a9fbf3403cdfde4026209f97ace22f9e334f0b45a33431a221b3db46a8.js" integrity="sha256-ZSEYqfvzQDzf3kAmIJ&#43;XrOIvnjNPC0WjNDGiIbPbRqg=" crossorigin="anonymous" defer></script>
+</body>
+</html>
