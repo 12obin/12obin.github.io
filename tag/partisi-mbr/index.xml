@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>partisi-mbr on BlogSatu</title>
+    <link>https://blogsatu.net/tag/partisi-mbr/</link>
+    <description>Recent content in partisi-mbr on BlogSatu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © {year} Blogsatu.net. All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 06 Apr 2022 01:00:00 +0000</lastBuildDate><atom:link href="https://blogsatu.net/tag/partisi-mbr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Merubah Partisi MBR Menjadi GPT Dan Sebaliknya</title>
+      <link>https://blogsatu.net/cara-merubah-partisi-mbr-menjadi-gpt/</link>
+      <pubDate>Wed, 06 Apr 2022 01:00:00 +0000</pubDate>
+      
+      <guid>https://blogsatu.net/cara-merubah-partisi-mbr-menjadi-gpt/</guid>
+      <description>Partisi GPT menjadi standar baru dalam hal partisi hard disk karena memiliki beberapa keunggulan daripada MBR. Bagi orang yang pertama kali menggunakan komputer, alangkah baiknya mengenal terlebih dahulu jenis-jenis partisi hard disk.
+Selanjutnya setelah mengetahui keunggulan GPT daripada MBR, banyak sobat yang ingin menjajal hard disk dengan partisi GPT. Untuk memilih partisi GPT tentu harus memperhatikan syarat dan ketentuan yang harus dipenuhi seperti tersebut di dalam artikel beda partisi MBR dan GPT.</description>
+    </item>
+    
+    <item>
+      <title>Perbedaan Partisi MBR dan GPT Harus Pilih Mana Baca Selengkapnya</title>
+      <link>https://blogsatu.net/perbedaan-partisi-mbr-dan-gpt/</link>
+      <pubDate>Mon, 04 Apr 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://blogsatu.net/perbedaan-partisi-mbr-dan-gpt/</guid>
+      <description>Stuktur partisi dari suatu harddisk yang dipakai di dalam komputer ada 2 tipe saat ini, yaitu MBR dan GPT. Kedua jenis partisi harddisk ini sering dipakai bagi pengguna komputer windows atau linux. Partisi itu sendiri adalah suatu ruang tersendiri yang dibuat di dalam suatu harddisk yang berfungsi layaknya harddisk itu sendiri. Partisi dapat diakses oleh sistem operasi itu sendiri, misalnya windows.
+Bagi pemula, menggunakan jenis MBR sangat disarankan karena mudah penggunannya.</description>
+    </item>
+    
+    <item>
+      <title>3 Cara Mengetahui Jenis Partisi Hard Disk Paling Mudah</title>
+      <link>https://blogsatu.net/cara-mengetahui-jenis-partisi-harddisk/</link>
+      <pubDate>Mon, 04 Apr 2022 01:00:00 +0000</pubDate>
+      
+      <guid>https://blogsatu.net/cara-mengetahui-jenis-partisi-harddisk/</guid>
+      <description>Misalkan sobat telah membeli komputer baru, entah itu komputer desktop atau laptop. Kemudian setelah membaca beda partisi MBR dan GPT, penasaran ingin mengetahui partisi apa yang digunakan pada komputer dan laptop terbaru tersebut.
+Pengetahuan jenis partisi hard disk adalah hal dasar yang seharusnya dipahami bagi sobat-sobat yang ingin atau sedang sekolah komputer atau mungkin bukan pakar komputer tetapi ingin mendalami tentang komputer. Karena jenis partisi MBR adalah metode partisi yang paling banyak digunakan saat ini sedangkan partisi GPT adalah metode partisi terbaru dengan menjanjikan banyak fitur unggulan dibanding MBR.</description>
+    </item>
+    
+  </channel>
+</rss>
