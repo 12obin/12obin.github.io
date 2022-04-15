@@ -65,7 +65,7 @@ banner: internet-banking-bank-mandiri.jpg
 
 <p><{% include thegambar.html %} {% include thedatasrc.html %}="{% include sourceimage.html %}/mandiri-internet-banking/cara-daftar-bank-mandiri-internet-banking-5.jpg" alt="Cara Daftar Internet Banking Bank Mandiri Disertai Gambar Terbaru" title="Cara Daftar Internet Banking Bank Mandiri Disertai Gambar Terbaru"  {% include classlazy.html %} {% include classimage.html %} ></p>
 
-<h3 class="{% include classh3.html %}">2. Melalui Customer Service Bank Mandiri</h3></p>
+<h3 class="{% include classh3.html %}">2. Melalui Customer Service Bank Mandiri</h3>
 
 <p>a. Isi form pendaftaran eBanking yang disediakan.</p>
 
