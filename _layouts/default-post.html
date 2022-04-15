@@ -115,7 +115,7 @@ ga('send', 'pageview');
   <span class="post-date" title="created on {{ page.date | date: "%Y-%m-%d" }}">
     {{ page.date | date: "%-d %B %Y" }}
   </span><span class="post-reading-time">
-    {{ page.content | reading_time }} read
+  {% include read_time.html %} read
   </span>
 
   
