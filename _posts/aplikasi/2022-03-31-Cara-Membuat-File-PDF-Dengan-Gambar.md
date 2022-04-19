@@ -10,7 +10,7 @@ slug: "cara-membuat-file-pdf"
 tanggalpostterbit: 2022-03-31 
 tanggalpostmodif: 2022-03-31
 categories: aplikasi
-tags: ["buat-file-pdf-online" , "buat-file-pdf-hp" , "buat-file-pdf-android" , "pdf-file-windows"]
+tags: buat-file-pdf-online buat-file-pdf-hp buat-file-pdf-android pdf-file-windows
 penulis: achmad
 changefreq: monthly
 priority: "0.8"

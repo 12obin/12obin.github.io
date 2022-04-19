@@ -10,7 +10,7 @@ date: 2022-03-30 13:00:00
 tanggalpostterbit: 2022-03-30
 tanggalpostmodif: 2022-03-30
 categories: aplikasi
-tags: ["aplikasi-perekam-layar", "perekam-layar-pc"]
+tags: aplikasi-perekam-layar perekam-layar-pc
 penulis: achmad
 changefreq: monthly
 priority: "0.8"
