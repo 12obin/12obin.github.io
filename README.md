@@ -1,1 +1,1 @@
-This is just another jekyll blog
+Just another jekyll blog using minima themes
