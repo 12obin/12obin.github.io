@@ -43,7 +43,7 @@ banner: cara-buat-akun-facebook.jpg
 
 <p>Untuk membuat akun facebook, berikut ini langkah-langkah yang harus dilakukan.</p>
 
-<p><{% include thegambar.html %} {% include thedatasrc.html %}="{% include sourceimage.html %}/akun-fb/buat-akun-facebook.jpg" alt="Cara Membuat Akun Facebook Dengan Cepat" title="Cara Membuat Akun Facebook Dengan Cepat" {% include classgambar.html %} ></p>
+<p><{% include thegambar.html %} {% include thedatasrc.html %}="{% include sourceimage.html %}/akun-fb/buat-akun-facebook.jpg" alt="Cara Membuat Akun Facebook Dengan Cepat" title="Cara Membuat Akun Facebook Dengan Cepat" {% include classlazy.html %}  {% include classimage.html %} ></p>
 
 
 <h3 class="{% include classh3.html %}" >1. Masukkan nama depan dan nama belakang</h3>
