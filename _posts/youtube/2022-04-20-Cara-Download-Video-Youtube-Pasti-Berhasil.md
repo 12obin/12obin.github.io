@@ -6,9 +6,9 @@ deskripsi: "Cara Download Video Youtube yang pasti berhasil, download video deng
 excerpt: "Tahukah sobat bahwa video yang diunggah ke Channel Youtube dapat di download? Kalau belum tahu, pada postingan kali ini saya akan berbagi bagaimana cara download video youtube"
 katakunci: "Cara Download Video Youtube"
 slug: "cara-download-video-youtube"
-date: 2022-03-30 01:00:00
-tanggalpostterbit: 2022-03-30 
-tanggalpostmodif: 2022-03-30
+date: 2022-04-20 12:00:00
+tanggalpostterbit: 2022-04-20
+tanggalpostmodif: 2022-04-20
 categories: youtube
 tags: video-youtube
 penulis: achmad
