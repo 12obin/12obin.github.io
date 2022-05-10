@@ -8,7 +8,7 @@ katakunci: "cara membuat file PDF"
 date: 2022-03-31 01:00:00
 slug: "cara-membuat-file-pdf"
 tanggalpostterbit: 2022-03-31 
-tanggalpostmodif: 2022-03-31
+tanggalpostmodif: 2022-05-10
 categories: aplikasi
 tags: buat-file-pdf-online buat-file-pdf-hp buat-file-pdf-android pdf-file-windows
 penulis: achmad
@@ -143,4 +143,23 @@ banner: buat-file-pdf.jpg
 
 <p>7.d. Simpanlah hasilnya ke dalam komputer atau ke Flashdisk.</p>
 
-<p>Dengan banyaknya pilihan cara membuat file PDF, akan memudahkan anda dalam kecepatan pembuatannya. Untuk urusan kantor, biasanya menggunakan alat scanner seperti Canon LIDE 120 untuk membuat file PDF yang bisa didistribusikan ke berbagai departemen. Sedangkan untuk blogger, toko online atau pemilik produk digital lainnya bisa menggunakan aplikasi yang memiliki fitur password proteksi supaya file yang didistribusikan tidak mudah dibaca oleh siapa saja.</p>
+<h3 class="{% include classh3.html %}">8. Menggunakan aplikasi website opera</h3>
+
+<p>Opera merupakan salah satu aplikasi yang dapat digunakan untuk browsing internet baik itu di hp, komputer PC Windows, komputer linux dan macbook.</p>
+
+<p>Selain dapat digunakan untuk browsing di internet, aplikasi opera juga dapat digunakan untuk membuat file PDF. Berikut ini caranya :</p>
+
+<p>1. Install aplikasi Opera di komputer</p>
+
+<p>2. Buka alamat website yang akan dibuat file PDF</p>
+
+<p>3. Pada aplikasi opera, klik mouse komputer di sebelah kiri paling atas.</p>
+
+<p>4. Arahkan kursor pada menu "page". Maka akan terlihat menu "Save as PDF"</p>
+
+<p>5. Klik menu "Save as PDF"</p>
+
+<p>6. Selesai</p>
+
+
+<p>Demikian cara membuat file PDF yang dapat diterapkan untuk membuat file PDF. Siapapun anda, apakah anda pekerja kantoran, seorang blogger, pemilik toko online atau pemilik produk digital, dapat menggunakan salah satu pilihan diatas untuk membuat file PDF.</p>
