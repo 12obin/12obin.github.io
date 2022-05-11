@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Cara Membuat File PDF Dengan Gambar"
-judulseo: "7 Cara Membuat File PDF Mudah Dan Cepat Terbaru Dengan Gambar"
-deskripsi: "7 Cara membuat file PDF yang memudahkan meng-convert file apa saja menjadi PDF atau membuat File PDF sendiri diproteksi dengan password"
+judulseo: "Cara Membuat File PDF Mudah Dan Cepat Terbaru Dengan Gambar"
+deskripsi: "Cara membuat file PDF yang memudahkan meng-convert file apa saja menjadi PDF atau membuat File PDF sendiri diproteksi dengan password"
 excerpt: "PDF (Portable Document Format) adalah sebuah format berkas yang dibuat oleh perusahaan adobe system pada tahun 1993 untuk tujuan pertukaran dokumen digital. Format PDF dibuat untuk merepresentasikan dokumen dua dimensi yang meliputi teks, huruf, citra dan grafik dua dimensi. Pada"
 katakunci: "cara membuat file PDF"
 date: 2022-03-31 01:00:00
 slug: "cara-membuat-file-pdf"
 tanggalpostterbit: 2022-03-31 
-tanggalpostmodif: 2022-05-10
+tanggalpostmodif: 2022-05-11
 categories: aplikasi
 tags: buat-file-pdf-online buat-file-pdf-hp buat-file-pdf-android pdf-file-windows
 penulis: achmad
